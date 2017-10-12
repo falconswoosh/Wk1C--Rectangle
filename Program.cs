@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Rectangle
+namespace RectangleChecker
 {
   public class Program
   {
